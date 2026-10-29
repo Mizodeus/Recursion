@@ -1,0 +1,24 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Mizodeus/Recursion#readme",
+  "bugs": {
+    "url": "https://github.com/Mizodeus/Recursion/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mizodeus/Recursion.git"
+  },
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^8.0.7",
+    "@babel/preset-env": "^8.0.7",
+    "babel-jest": "^30.5.2",
+    "jest": "^30.5.2"
+  }
+}
